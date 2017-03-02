@@ -1,3 +1,6 @@
+# Measuring the difference between Array of Structures and Structure of Array forms for a simple fluid simulation.
+
+
 Test Computer: 
 * OS: Debian 32-bit VM 
 * CPU: AMD A8-6410
